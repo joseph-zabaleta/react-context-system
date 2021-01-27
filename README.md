@@ -74,7 +74,7 @@ Consumer: `src/components/Button.js`
 To run this application locally please review the following code snippets
 
 ```bash
-git clone https://....
+git clone https://github.com/joseph-zabaleta/react-context-system.git
 cd react-context-system
 npm install
 ```
